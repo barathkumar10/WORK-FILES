@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "author":"colt",
+        "text":"papopopa",
+        "comments":[
+            "asasas",
+            "asadad",
+            "asadad"
+        ]
+    },
+     {
+        "id": 2,
+        "author":"tom",
+        "text":"popapopa",
+        "comments":[
+            "asasas",
+            "asadad",
+            "asadad"
+        ]
+    }
+]
